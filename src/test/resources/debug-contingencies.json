@@ -1,0 +1,12 @@
+{
+  "type" : "default",
+  "version" : "1.0",
+  "name" : "default",
+  "contingencies" : [ {
+    "id" : "l34",
+    "elements" : [ {
+      "id" : "l34",
+      "type" : "BRANCH"
+    } ]
+  } ]
+}
